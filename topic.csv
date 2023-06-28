@@ -1,0 +1,264 @@
+,topic,label,count
+0,http://edamontology.org/topic_3474,Machine learning,3050
+1,http://edamontology.org/topic_0602,"Molecular interactions, pathways and networks",2717
+2,http://edamontology.org/topic_0203,Gene expression,2665
+3,http://edamontology.org/topic_0154,Small molecules,2427
+4,http://edamontology.org/topic_3170,RNA-Seq,2341
+5,http://edamontology.org/topic_0080,Sequence analysis,2220
+6,http://edamontology.org/topic_3168,Sequencing,2165
+7,http://edamontology.org/topic_0625,Genotype and phenotype,1678
+8,http://edamontology.org/topic_0121,Proteomics,1672
+9,http://edamontology.org/topic_3512,Gene transcripts,1609
+10,http://edamontology.org/topic_0102,Mapping,1599
+11,http://edamontology.org/topic_0622,Genomics,1549
+12,http://edamontology.org/topic_2640,Oncology,1523
+13,http://edamontology.org/topic_0749,Transcription factors and regulatory sites,1429
+14,http://edamontology.org/topic_0769,Workflows,1420
+15,http://edamontology.org/topic_0199,Genetic variation,1407
+16,http://edamontology.org/topic_3382,Imaging,1388
+17,http://edamontology.org/topic_3308,Transcriptomics,1292
+18,http://edamontology.org/topic_0634,Pathology,1273
+19,http://edamontology.org/topic_0654,DNA,1272
+20,http://edamontology.org/topic_2269,Statistics and probability,1241
+21,http://edamontology.org/topic_0621,Model organisms,1220
+22,http://edamontology.org/topic_0659,"Functional, regulatory and non-coding RNA",1215
+23,http://edamontology.org/topic_2229,Cell biology,1196
+24,http://edamontology.org/topic_0078,Proteins,1138
+25,http://edamontology.org/topic_0196,Sequence assembly,1124
+26,http://edamontology.org/topic_2885,DNA polymorphism,1107
+27,http://edamontology.org/topic_3053,Genetics,1107
+28,http://edamontology.org/topic_3520,Proteomics experiment,982
+29,http://edamontology.org/topic_0128,Protein interactions,933
+30,http://edamontology.org/topic_3518,Microarray experiment,926
+31,http://edamontology.org/topic_0099,RNA,835
+32,http://edamontology.org/topic_3174,Metagenomics,808
+33,http://edamontology.org/topic_0780,Plant biology,772
+34,http://edamontology.org/topic_0082,Structure prediction,739
+35,http://edamontology.org/topic_2275,Molecular modelling,696
+36,http://edamontology.org/topic_3293,Phylogenetics,693
+37,http://edamontology.org/topic_3071,Data management,685
+38,http://edamontology.org/topic_3295,Epigenetics,676
+39,http://edamontology.org/topic_0160,"Sequence sites, features and motifs",614
+40,http://edamontology.org/topic_3172,Metabolomics,598
+41,http://edamontology.org/topic_0092,Data visualisation,597
+42,http://edamontology.org/topic_2814,Protein structure analysis,589
+43,http://edamontology.org/topic_0089,Ontology and terminology,580
+44,http://edamontology.org/topic_0736,Protein folds and structural domains,576
+45,http://edamontology.org/topic_0091,Bioinformatics,573
+46,http://edamontology.org/topic_3517,GWAS study,555
+47,http://edamontology.org/topic_2259,Systems biology,536
+48,http://edamontology.org/topic_3068,Literature and language,530
+49,http://edamontology.org/topic_3360,Biomarkers,528
+50,http://edamontology.org/topic_3169,ChIP-seq,525
+51,http://edamontology.org/topic_3673,Whole genome sequencing,522
+52,http://edamontology.org/topic_3336,Drug discovery,481
+53,http://edamontology.org/topic_3500,Zoology,480
+54,http://edamontology.org/topic_0097,Nucleic acid structure analysis,479
+55,http://edamontology.org/topic_3070,Biology,475
+56,http://edamontology.org/topic_3384,Medical imaging,466
+57,http://edamontology.org/topic_3407,Endocrinology and metabolism,456
+58,http://edamontology.org/topic_3305,Public health and epidemiology,454
+59,http://edamontology.org/topic_0084,Phylogeny,447
+60,http://edamontology.org/topic_3697,Microbial ecology,434
+61,http://edamontology.org/topic_0632,Probes and primers,421
+62,http://edamontology.org/topic_3315,Mathematics,414
+63,http://edamontology.org/topic_0623,Gene and protein families,413
+64,http://edamontology.org/topic_3344,Biomedical science,401
+65,http://edamontology.org/topic_2830,Immunoproteins and antigens,371
+66,http://edamontology.org/topic_3047,Molecular biology,362
+67,http://edamontology.org/topic_3676,Exome sequencing,353
+68,http://edamontology.org/topic_3299,Evolutionary biology,351
+69,http://edamontology.org/topic_3304,Neurobiology,349
+70,http://edamontology.org/topic_0166,Protein structural motifs and surfaces,345
+71,http://edamontology.org/topic_3444,MRI,344
+72,http://edamontology.org/topic_3307,Computational biology,343
+73,http://edamontology.org/topic_3173,Epigenomics,340
+74,http://edamontology.org/topic_0108,Protein expression,338
+75,http://edamontology.org/topic_0081,Structure analysis,334
+76,http://edamontology.org/topic_3320,RNA splicing,327
+77,http://edamontology.org/topic_0176,Molecular dynamics,327
+78,http://edamontology.org/topic_0130,"Protein folding, stability and design",321
+79,http://edamontology.org/topic_3379,Preclinical and clinical studies,321
+80,http://edamontology.org/topic_0204,Gene regulation,318
+81,http://edamontology.org/topic_0218,Natural language processing,318
+82,http://edamontology.org/topic_0601,Protein modifications,314
+83,http://edamontology.org/topic_3056,Population genetics,312
+84,http://edamontology.org/topic_0593,NMR,295
+85,http://edamontology.org/topic_0637,Taxonomy,285
+86,http://edamontology.org/topic_3511,"Nucleic acid sites, features and motifs",278
+87,http://edamontology.org/topic_0821,Enzymes,277
+88,http://edamontology.org/topic_3473,Data mining,276
+89,http://edamontology.org/topic_3303,Medicine,272
+90,http://edamontology.org/topic_3452,Tomography,270
+91,http://edamontology.org/topic_3325,Rare diseases,267
+92,http://edamontology.org/topic_3577,Personalised medicine,266
+93,http://edamontology.org/topic_3810,Agricultural science,263
+94,http://edamontology.org/topic_3534,Protein binding sites,261
+95,http://edamontology.org/topic_0209,Medicinal chemistry,259
+96,http://edamontology.org/topic_2258,Cheminformatics,256
+97,http://edamontology.org/topic_3510,"Protein sites, features and motifs",249
+98,http://edamontology.org/topic_3489,Database management,246
+99,http://edamontology.org/topic_3301,Microbiology,244
+100,http://edamontology.org/topic_0202,Pharmacology,237
+101,http://edamontology.org/topic_3314,Chemistry,236
+102,http://edamontology.org/topic_0219,"Data submission, annotation, and curation",236
+103,http://edamontology.org/topic_0610,Ecology,236
+104,http://edamontology.org/topic_3324,Infectious disease,235
+105,http://edamontology.org/topic_3318,Physics,233
+106,http://edamontology.org/topic_3063,Medical informatics,218
+107,http://edamontology.org/topic_0820,Membrane and lipoproteins,212
+108,http://edamontology.org/topic_2815,Human biology,209
+109,http://edamontology.org/topic_3572,Data quality management,205
+110,http://edamontology.org/topic_3300,Physiology,204
+111,http://edamontology.org/topic_3375,Drug metabolism,200
+112,http://edamontology.org/topic_3175,Structural variation,198
+113,http://edamontology.org/topic_3306,Biophysics,198
+114,http://edamontology.org/topic_0157,"Sequence composition, complexity and repeats",198
+115,http://edamontology.org/topic_0077,Nucleic acids,185
+116,http://edamontology.org/topic_3542,Protein secondary structure,184
+117,http://edamontology.org/topic_3678,Experimental design and studies,179
+118,http://edamontology.org/topic_1317,Structural biology,174
+119,http://edamontology.org/topic_3316,Computer science,174
+120,http://edamontology.org/topic_3372,Software engineering,168
+121,http://edamontology.org/topic_3125,DNA binding sites,167
+122,http://edamontology.org/topic_3674,Methylated DNA immunoprecipitation,166
+123,http://edamontology.org/topic_0194,Phylogenomics,165
+124,http://edamontology.org/topic_0781,Virology,165
+125,http://edamontology.org/topic_0611,Electron microscopy,164
+126,http://edamontology.org/topic_1775,Function analysis,162
+127,http://edamontology.org/topic_3334,Neurology,151
+128,http://edamontology.org/topic_0804,Immunology,150
+129,http://edamontology.org/topic_3524,Simulation experiment,148
+130,http://edamontology.org/topic_3373,Drug development,145
+131,http://edamontology.org/topic_3934,Cytometry,141
+132,http://edamontology.org/topic_3337,Biobank,140
+133,http://edamontology.org/topic_0605,Informatics,139
+134,http://edamontology.org/topic_0797,Comparative genomics,139
+135,http://edamontology.org/topic_3837,Metagenomic sequencing,139
+136,http://edamontology.org/topic_0153,Lipids,136
+137,http://edamontology.org/topic_0114,Gene structure,136
+138,http://edamontology.org/topic_3421,Surgery,132
+139,http://edamontology.org/topic_3292,Biochemistry,128
+140,http://edamontology.org/topic_3277,Sample collections,124
+141,http://edamontology.org/topic_3179,ChIP-on-chip,123
+142,http://edamontology.org/topic_2828,X-ray diffraction,120
+143,http://edamontology.org/topic_3343,Compound libraries and screening,120
+144,http://edamontology.org/topic_0798,Mobile genetic elements,117
+145,http://edamontology.org/topic_3400,"Allergy, clinical immunology and immunotherapeutics",117
+146,http://edamontology.org/topic_3940,Chromosome conformation capture,114
+147,http://edamontology.org/topic_3077,Data acquisition,114
+148,http://edamontology.org/topic_3519,PCR experiment,114
+149,http://edamontology.org/topic_3050,Biodiversity,111
+150,http://edamontology.org/topic_3794,RNA immunoprecipitation,111
+151,http://edamontology.org/topic_0123,Protein properties,110
+152,http://edamontology.org/topic_3335,Cardiology,109
+153,http://edamontology.org/topic_3321,Molecular genetics,108
+154,http://edamontology.org/topic_3297,Biotechnology,103
+155,http://edamontology.org/topic_0085,Functional genomics,103
+156,http://edamontology.org/topic_0208,Pharmacogenomics,101
+157,http://edamontology.org/topic_3930,Immunogenetics,97
+158,http://edamontology.org/topic_3361,Laboratory techniques,97
+159,http://edamontology.org/topic_3391,Omics,96
+160,http://edamontology.org/topic_3383,Bioimaging,94
+161,http://edamontology.org/topic_3365,"Data architecture, analysis and design",93
+162,http://edamontology.org/topic_2840,Toxicology,93
+163,http://edamontology.org/topic_3366,Data integration and warehousing,89
+164,http://edamontology.org/topic_2533,DNA mutation,89
+165,http://edamontology.org/topic_3332,Computational chemistry,85
+166,http://edamontology.org/topic_3957,Protein interaction experiment,81
+167,http://edamontology.org/topic_0140,Protein targeting and localisation,81
+168,http://edamontology.org/topic_3374,Biotherapeutics,74
+169,http://edamontology.org/topic_3569,Applied mathematics,71
+170,http://edamontology.org/topic_3390,Nutritional science,70
+171,http://edamontology.org/topic_3298,Phenomics,67
+172,http://edamontology.org/topic_3574,Human genetics,63
+173,http://edamontology.org/topic_3538,Protein disordered structure,61
+174,http://edamontology.org/topic_3385,Light microscopy,59
+175,http://edamontology.org/topic_3067,Anatomy,58
+176,http://edamontology.org/topic_3398,Bioengineering,56
+177,http://edamontology.org/topic_3399,Geriatric medicine,56
+178,http://edamontology.org/topic_3796,Population genomics,55
+179,http://edamontology.org/topic_0152,Carbohydrates,54
+180,http://edamontology.org/topic_3895,Synthetic biology,54
+181,http://edamontology.org/topic_3912,Genetic engineering,53
+182,http://edamontology.org/topic_3941,Metatranscriptomics,53
+183,http://edamontology.org/topic_3855,Environmental sciences,51
+184,http://edamontology.org/topic_3958,Copy number variation,49
+185,http://edamontology.org/topic_3954,Echography,47
+186,http://edamontology.org/topic_3948,Immunoinformatics,46
+187,http://edamontology.org/topic_3176,DNA packaging,44
+188,http://edamontology.org/topic_3263,Data security,44
+189,http://edamontology.org/topic_0607,Laboratory information management,44
+190,http://edamontology.org/topic_3120,Protein variants,43
+191,http://edamontology.org/topic_3516,Genotyping experiment,43
+192,http://edamontology.org/topic_3419,Psychiatry,42
+193,http://edamontology.org/topic_3055,Quantitative genetics,41
+194,http://edamontology.org/topic_3656,Immunoprecipitation experiment,36
+195,http://edamontology.org/topic_3393,Quality affairs,36
+196,http://edamontology.org/topic_3345,Data identity and mapping,34
+197,http://edamontology.org/topic_3127,DNA replication and recombination,34
+198,http://edamontology.org/topic_3422,Urology and nephrology,33
+199,http://edamontology.org/topic_3377,Safety sciences,32
+200,http://edamontology.org/topic_3418,Paediatrics,32
+201,http://edamontology.org/topic_3922,Proteogenomics,32
+202,http://edamontology.org/topic_0122,Structural genomics,31
+203,http://edamontology.org/topic_3892,Biomolecular simulation,30
+204,http://edamontology.org/topic_3395,Regenerative medicine,30
+205,http://edamontology.org/topic_3376,Medicines research and development,29
+206,http://edamontology.org/topic_3322,Respiratory medicine,29
+207,http://edamontology.org/topic_3966,Vaccinology,29
+208,http://edamontology.org/topic_3944,Cladistics,25
+209,http://edamontology.org/topic_3571,Data governance,22
+210,http://edamontology.org/topic_3370,Analytical chemistry,21
+211,http://edamontology.org/topic_3369,Chemical biology,21
+212,http://edamontology.org/topic_3371,Synthetic chemistry,21
+213,http://edamontology.org/topic_3523,RNAi experiment,20
+214,http://edamontology.org/topic_3943,Paleogenomics,20
+215,http://edamontology.org/topic_3570,Pure mathematics,20
+216,http://edamontology.org/topic_3974,Epistasis,19
+217,http://edamontology.org/topic_3416,Musculoskeletal medicine,18
+218,http://edamontology.org/topic_3955,Fluxomics,18
+219,http://edamontology.org/topic_3945,Molecular evolution,18
+220,http://edamontology.org/topic_3064,Developmental biology,17
+221,http://edamontology.org/topic_3342,Translational medicine,17
+222,http://edamontology.org/topic_3404,Dermatology,17
+223,http://edamontology.org/topic_3408,Haematology,16
+224,http://edamontology.org/topic_3420,Reproductive health,16
+225,http://edamontology.org/topic_3423,Complementary medicine,15
+226,http://edamontology.org/topic_3403,Critical care medicine,15
+227,http://edamontology.org/topic_3378,Pharmacovigilance,15
+228,http://edamontology.org/topic_3387,Marine biology,15
+229,http://edamontology.org/topic_3339,Microbial collection,14
+230,http://edamontology.org/topic_3679,Animal study,13
+231,http://edamontology.org/topic_3396,Systems medicine,13
+232,http://edamontology.org/topic_3302,Parasitology,13
+233,http://edamontology.org/topic_3448,Neutron diffraction,13
+234,http://edamontology.org/topic_3388,Molecular medicine,12
+235,http://edamontology.org/topic_3411,Gynaecology and obstetrics,12
+236,http://edamontology.org/topic_3575,Tropical medicine,11
+237,http://edamontology.org/topic_3368,Biomaterials,11
+238,http://edamontology.org/topic_3386,Laboratory animal science,10
+239,http://edamontology.org/topic_3340,Cell culture collection,8
+240,http://edamontology.org/topic_3397,Veterinary medicine,8
+241,http://edamontology.org/topic_3401,Pain medicine,7
+242,http://edamontology.org/topic_3409,Gastroenterology,7
+243,http://edamontology.org/topic_3341,Clone library,7
+244,http://edamontology.org/topic_3576,Medical biotechnology,7
+245,http://edamontology.org/topic_3405,Dentistry,6
+246,http://edamontology.org/topic_3573,Freshwater biology,6
+247,http://edamontology.org/topic_3412,Hepatic and biliary medicine,6
+248,http://edamontology.org/topic_3338,Mouse clinic,6
+249,http://edamontology.org/topic_3406,"Ear, nose and throat medicine",5
+250,http://edamontology.org/topic_0137,Protein hydropathy,5
+251,http://edamontology.org/topic_3065,Embryology,4
+252,http://edamontology.org/topic_3417,Ophthalmology,4
+253,http://edamontology.org/topic_3410,Gender medicine,3
+254,http://edamontology.org/topic_3959,Cytogenetics,3
+255,http://edamontology.org/topic_3394,Regulatory affairs,2
+256,http://edamontology.org/topic_3414,Trauma medicine,2
+257,http://edamontology.org/topic_3967,Immunomics,2
+258,http://edamontology.org/topic_3521,2D PAGE experiment,2
+259,http://edamontology.org/topic_3041,Sequence databases,1
+260,http://edamontology.org/topic_3043,Protein sequences,1
+261,http://edamontology.org/topic_0083,Alignment,1
+262,http://edamontology.org/topic_0644,Proteome,1

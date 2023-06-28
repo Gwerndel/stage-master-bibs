@@ -1,0 +1,233 @@
+format,count,label
+http://edamontology.org/format_1196,2,SMILES
+http://edamontology.org/format_1208,1,protein
+http://edamontology.org/format_1212,1,dna
+http://edamontology.org/format_1332,2,FASTA search results format
+http://edamontology.org/format_1333,9,BLAST results
+http://edamontology.org/format_1360,15,meme-motif
+http://edamontology.org/format_1367,1,JASPAR format
+http://edamontology.org/format_1369,1,MEME background Markov model
+http://edamontology.org/format_1423,2,Phylip distance matrix
+http://edamontology.org/format_1445,1,Phylip tree distance format
+http://edamontology.org/format_1454,2,dssp
+http://edamontology.org/format_1457,4,Dot-bracket format
+http://edamontology.org/format_1475,2,PDB database entry format
+http://edamontology.org/format_1476,68,PDB
+http://edamontology.org/format_1477,5,mmCIF
+http://edamontology.org/format_1628,1,ABI
+http://edamontology.org/format_1637,10,dat
+http://edamontology.org/format_1705,1,HET group dictionary entry format
+http://edamontology.org/format_1910,22,newick
+http://edamontology.org/format_1912,7,Nexus format
+http://edamontology.org/format_1915,13,Format
+http://edamontology.org/format_1919,2,Sequence record format
+http://edamontology.org/format_1920,3,Sequence feature annotation format
+http://edamontology.org/format_1921,13,Alignment format
+http://edamontology.org/format_1925,1,codata
+http://edamontology.org/format_1927,9,EMBL format
+http://edamontology.org/format_1929,186,FASTA
+http://edamontology.org/format_1930,34,FASTQ
+http://edamontology.org/format_1931,3,FASTQ-illumina
+http://edamontology.org/format_1932,9,FASTQ-sanger
+http://edamontology.org/format_1934,1,fitch program
+http://edamontology.org/format_1935,1,GCG
+http://edamontology.org/format_1936,12,GenBank format
+http://edamontology.org/format_1939,1,GFF3-seq
+http://edamontology.org/format_1942,1,ig
+http://edamontology.org/format_1947,2,GCG MSF
+http://edamontology.org/format_1948,2,nbrf/pir
+http://edamontology.org/format_1949,1,nexus-seq
+http://edamontology.org/format_1954,1,Pearson format
+http://edamontology.org/format_1957,9,raw
+http://edamontology.org/format_1961,4,Stockholm format
+http://edamontology.org/format_1962,1,strider format
+http://edamontology.org/format_1964,12,plain text format (unformatted)
+http://edamontology.org/format_1966,2,ASN.1 sequence format
+http://edamontology.org/format_1973,1,nexusnon
+http://edamontology.org/format_1974,1,GFF2
+http://edamontology.org/format_1975,41,GFF3
+http://edamontology.org/format_1978,1,DASGFF
+http://edamontology.org/format_1982,13,ClustalW format
+http://edamontology.org/format_1984,12,FASTA-aln
+http://edamontology.org/format_1997,9,PHYLIP format
+http://edamontology.org/format_1998,2,PHYLIP sequential
+http://edamontology.org/format_1999,2,scores format
+http://edamontology.org/format_2006,6,Phylogenetic tree format
+http://edamontology.org/format_2013,11,Biological pathway or network format
+http://edamontology.org/format_2020,1,Article format
+http://edamontology.org/format_2032,17,Workflow format
+http://edamontology.org/format_2033,6,Tertiary structure format
+http://edamontology.org/format_2054,1,Protein interaction format
+http://edamontology.org/format_2055,1,Sequence assembly format
+http://edamontology.org/format_2056,2,Microarray experiment data format
+http://edamontology.org/format_2058,6,Gene expression report format
+http://edamontology.org/format_2060,9,Map format
+http://edamontology.org/format_2062,6,Protein report format
+http://edamontology.org/format_2064,1,3D-1D scoring matrix format
+http://edamontology.org/format_2065,1,Protein structure report (quality evaluation) format
+http://edamontology.org/format_2066,4,Database hits (sequence) format
+http://edamontology.org/format_2067,1,Sequence distance matrix format
+http://edamontology.org/format_2068,2,Sequence motif format
+http://edamontology.org/format_2069,2,Sequence profile format
+http://edamontology.org/format_2072,1,Hidden Markov model format
+http://edamontology.org/format_2076,1,RNA secondary structure format
+http://edamontology.org/format_2077,1,Protein secondary structure format
+http://edamontology.org/format_2078,2,Sequence range format
+http://edamontology.org/format_2182,2,FASTQ-like format (text)
+http://edamontology.org/format_2195,1,Ontology format
+http://edamontology.org/format_2196,2,OBO format
+http://edamontology.org/format_2200,7,FASTA-like (text)
+http://edamontology.org/format_2206,5,Sequence feature table format (text)
+http://edamontology.org/format_2305,35,GFF
+http://edamontology.org/format_2306,12,GTF
+http://edamontology.org/format_2310,5,FASTA-HTML
+http://edamontology.org/format_2330,759,Textual format
+http://edamontology.org/format_2331,614,HTML
+http://edamontology.org/format_2332,122,XML
+http://edamontology.org/format_2333,66,Binary format
+http://edamontology.org/format_2350,7,Format (by type of data)
+http://edamontology.org/format_2376,12,RDF format
+http://edamontology.org/format_2532,5,GenBank-HTML
+http://edamontology.org/format_2545,2,FASTQ-like format
+http://edamontology.org/format_2546,2,FASTA-like
+http://edamontology.org/format_2548,4,Sequence feature table format
+http://edamontology.org/format_2554,2,Alignment format (text)
+http://edamontology.org/format_2572,62,BAM
+http://edamontology.org/format_2573,33,SAM
+http://edamontology.org/format_2585,12,SBML
+http://edamontology.org/format_2848,1,Bibliographic reference format
+http://edamontology.org/format_2919,2,Sequence annotation track format
+http://edamontology.org/format_2921,4,Sequence variation annotation format
+http://edamontology.org/format_2924,2,Phylip format variant
+http://edamontology.org/format_3003,45,BED
+http://edamontology.org/format_3004,2,bigBed
+http://edamontology.org/format_3005,7,WIG
+http://edamontology.org/format_3006,8,bigWig
+http://edamontology.org/format_3008,1,MAF
+http://edamontology.org/format_3011,1,genePred
+http://edamontology.org/format_3015,1,Pileup
+http://edamontology.org/format_3016,65,VCF
+http://edamontology.org/format_3020,8,BCF
+http://edamontology.org/format_3033,82,Matrix format
+http://edamontology.org/format_3156,5,BioPAX
+http://edamontology.org/format_3158,5,PSI MI XML (MIF)
+http://edamontology.org/format_3159,3,phyloXML
+http://edamontology.org/format_3160,5,NeXML
+http://edamontology.org/format_3161,1,MAGE-ML
+http://edamontology.org/format_3166,6,Biological pathway or network report format
+http://edamontology.org/format_3239,1,CopasiML
+http://edamontology.org/format_3242,3,PSI MI TAB (MITAB)
+http://edamontology.org/format_3244,14,mzML
+http://edamontology.org/format_3245,3,Mass spectrometry data format
+http://edamontology.org/format_3246,3,TraML
+http://edamontology.org/format_3247,19,mzIdentML
+http://edamontology.org/format_3248,4,mzQuantML
+http://edamontology.org/format_3253,1,Manchester OWL Syntax
+http://edamontology.org/format_3255,6,Turtle
+http://edamontology.org/format_3256,2,N-Triples
+http://edamontology.org/format_3261,5,RDF/XML
+http://edamontology.org/format_3262,1,OWL/XML
+http://edamontology.org/format_3285,1,MAP
+http://edamontology.org/format_3311,1,RNAML
+http://edamontology.org/format_3313,1,BLC
+http://edamontology.org/format_3326,1,Data index format
+http://edamontology.org/format_3327,16,BAI
+http://edamontology.org/format_3329,1,HMMER3
+http://edamontology.org/format_3331,3,BLAST XML results format
+http://edamontology.org/format_3462,3,CRAM
+http://edamontology.org/format_3464,119,JSON
+http://edamontology.org/format_3466,20,EPS
+http://edamontology.org/format_3467,11,GIF
+http://edamontology.org/format_3468,21,xls
+http://edamontology.org/format_3475,364,TSV
+http://edamontology.org/format_3477,4,Cytoscape input file format
+http://edamontology.org/format_3506,1,docx
+http://edamontology.org/format_3508,133,PDF
+http://edamontology.org/format_3547,400,Image format
+http://edamontology.org/format_3548,5,DICOM format
+http://edamontology.org/format_3549,2,nii
+http://edamontology.org/format_3550,2,mhd
+http://edamontology.org/format_3551,3,nrrd
+http://edamontology.org/format_3554,1,R file format
+http://edamontology.org/format_3556,4,MHTML
+http://edamontology.org/format_3579,32,JPG
+http://edamontology.org/format_3583,3,bedgraph
+http://edamontology.org/format_3590,5,HDF5
+http://edamontology.org/format_3591,13,TIFF
+http://edamontology.org/format_3592,7,BMP
+http://edamontology.org/format_3603,111,PNG
+http://edamontology.org/format_3604,57,SVG
+http://edamontology.org/format_3617,26,Graph format
+http://edamontology.org/format_3619,7,sif
+http://edamontology.org/format_3620,30,xlsx
+http://edamontology.org/format_3621,17,SQLite format
+http://edamontology.org/format_3650,9,netCDF
+http://edamontology.org/format_3651,23,MGF
+http://edamontology.org/format_3652,13,dta
+http://edamontology.org/format_3653,5,pkl
+http://edamontology.org/format_3654,16,mzXML
+http://edamontology.org/format_3655,16,pepXML
+http://edamontology.org/format_3665,3,K-mer countgraph
+http://edamontology.org/format_3681,11,mzTab
+http://edamontology.org/format_3682,2,imzML metadata file
+http://edamontology.org/format_3683,3,qcML
+http://edamontology.org/format_3684,5,PRIDE XML
+http://edamontology.org/format_3685,1,SED-ML
+http://edamontology.org/format_3686,1,COMBINE OMEX
+http://edamontology.org/format_3687,1,ISA-TAB
+http://edamontology.org/format_3692,1,SBGN-ML
+http://edamontology.org/format_3693,2,AGP
+http://edamontology.org/format_3696,3,PS
+http://edamontology.org/format_3698,1,SRA format
+http://edamontology.org/format_3702,1,MSF
+http://edamontology.org/format_3706,4,Biodiversity data format
+http://edamontology.org/format_3709,1,GCT/Res format
+http://edamontology.org/format_3711,5,X!Tandem XML
+http://edamontology.org/format_3712,1,Thermo RAW
+http://edamontology.org/format_3713,2,Mascot .dat file
+http://edamontology.org/format_3747,5,protXML
+http://edamontology.org/format_3749,2,JSON-LD
+http://edamontology.org/format_3750,12,YAML
+http://edamontology.org/format_3751,7,DSV
+http://edamontology.org/format_3752,133,CSV
+http://edamontology.org/format_3758,1,SEQUEST .out file
+http://edamontology.org/format_3764,5,idXML
+http://edamontology.org/format_3765,2,KNIME datatable format
+http://edamontology.org/format_3773,1,BioYAML
+http://edamontology.org/format_3774,1,BioJSON (Jalview)
+http://edamontology.org/format_3780,3,Annotated text format
+http://edamontology.org/format_3784,1,Open Annotation format
+http://edamontology.org/format_3788,3,SQL
+http://edamontology.org/format_3814,2,SDF
+http://edamontology.org/format_3816,2,Mol2
+http://edamontology.org/format_3822,3,GML
+http://edamontology.org/format_3825,1,nmrML
+http://edamontology.org/format_3827,6,proBED
+http://edamontology.org/format_3830,1,ARB
+http://edamontology.org/format_3833,1,featureXML
+http://edamontology.org/format_3834,2,mzData
+http://edamontology.org/format_3835,4,TIDE TXT
+http://edamontology.org/format_3836,1,BLAST XML v2 results format
+http://edamontology.org/format_3839,1,ibd
+http://edamontology.org/format_3857,1,CWL
+http://edamontology.org/format_3864,1,mirGFF3
+http://edamontology.org/format_3866,1,Trajectory format
+http://edamontology.org/format_3875,2,XTC
+http://edamontology.org/format_3876,2,TNG
+http://edamontology.org/format_3877,2,XYZ
+http://edamontology.org/format_3878,6,mdcrd
+http://edamontology.org/format_3880,6,GROMACS top
+http://edamontology.org/format_3881,4,AMBER top
+http://edamontology.org/format_3883,7,GROMACS itp
+http://edamontology.org/format_3885,2,BinPos
+http://edamontology.org/format_3887,1,CHARMM rtf
+http://edamontology.org/format_3910,6,trr
+http://edamontology.org/format_3956,2,N-Quads
+http://edamontology.org/format_3975,2,GFA 1
+http://edamontology.org/format_3976,3,GFA 2
+http://edamontology.org/format_3977,1,ObjTables
+http://edamontology.org/format_3981,2,TAR format
+http://edamontology.org/format_3987,1,ZIP format
+http://edamontology.org/format_3997,1,MPEG-4
+http://edamontology.org/format_4002,3,pickle
+http://edamontology.org/format_4003,1,NumPy format

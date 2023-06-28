@@ -1,0 +1,547 @@
+,operation,label,count
+0,http://edamontology.org/operation_0306,Text mining,239
+1,http://edamontology.org/operation_3431,Deposition,821
+2,http://edamontology.org/operation_3196,Genotyping,1408
+3,http://edamontology.org/operation_3202,Polymorphism detection,91
+4,http://edamontology.org/operation_2944,Physical mapping,27
+5,http://edamontology.org/operation_2121,Sequence file editing,13
+6,http://edamontology.org/operation_3282,ID mapping,63
+7,http://edamontology.org/operation_3504,Variant pattern analysis,21
+8,http://edamontology.org/operation_0335,Formatting,493
+9,http://edamontology.org/operation_2479,Protein sequence analysis,493
+10,http://edamontology.org/operation_2575,Binding site prediction,253
+11,http://edamontology.org/operation_0310,Sequence assembly,652
+12,http://edamontology.org/operation_3192,Sequence trimming,523
+13,http://edamontology.org/operation_3460,Taxonomic classification,244
+14,http://edamontology.org/operation_2454,Gene prediction,309
+15,http://edamontology.org/operation_3840,Multilocus sequence typing,60
+16,http://edamontology.org/operation_2428,Validation,464
+17,http://edamontology.org/operation_3283,Anonymisation,81
+18,http://edamontology.org/operation_3503,Incident curve plotting,94
+19,http://edamontology.org/operation_0337,Visualisation,2193
+20,http://edamontology.org/operation_3227,Variant calling,800
+21,http://edamontology.org/operation_0524,De-novo assembly,271
+22,http://edamontology.org/operation_3436,Aggregation,616
+23,http://edamontology.org/operation_3472,k-mer counting,203
+24,http://edamontology.org/operation_2403,Sequence analysis,395
+25,http://edamontology.org/operation_2426,Modelling and simulation,542
+26,http://edamontology.org/operation_0324,Phylogenetic analysis,168
+27,http://edamontology.org/operation_0276,Protein interaction network analysis,121
+28,http://edamontology.org/operation_0313,Expression profile clustering,212
+29,http://edamontology.org/operation_3197,Genetic variation analysis,338
+30,http://edamontology.org/operation_3225,Variant classification,165
+31,http://edamontology.org/operation_2486,Topology diagram drawing,6
+32,http://edamontology.org/operation_0267,Protein secondary structure prediction,349
+33,http://edamontology.org/operation_0319,Protein secondary structure assignment,26
+34,http://edamontology.org/operation_2488,Protein secondary structure comparison,109
+35,http://edamontology.org/operation_3443,Image analysis,876
+36,http://edamontology.org/operation_3860,Spectrum calculation,94
+37,http://edamontology.org/operation_0224,Query and retrieval,1057
+38,http://edamontology.org/operation_0468,Protein secondary structure prediction (helices),23
+39,http://edamontology.org/operation_0470,Protein secondary structure prediction (coils),55
+40,http://edamontology.org/operation_0570,Structure visualisation,231
+41,http://edamontology.org/operation_2421,Database search,1151
+42,http://edamontology.org/operation_3435,Standardisation and normalisation,1641
+43,http://edamontology.org/operation_3557,Imputation,387
+44,http://edamontology.org/operation_2422,Data retrieval,1389
+45,http://edamontology.org/operation_0484,SNP detection,312
+46,http://edamontology.org/operation_3936,Feature selection,154
+47,http://edamontology.org/operation_3937,Feature extraction,251
+48,http://edamontology.org/operation_0232,Sequence merging,88
+49,http://edamontology.org/operation_3198,Read mapping,422
+50,http://edamontology.org/operation_3258,Transcriptome assembly,105
+51,http://edamontology.org/operation_3695,Filtering,460
+52,http://edamontology.org/operation_0362,Genome annotation,325
+53,http://edamontology.org/operation_0430,CpG island and isochore detection,33
+54,http://edamontology.org/operation_3461,Virulence prediction,172
+55,http://edamontology.org/operation_2942,Treemap visualisation,21
+56,http://edamontology.org/operation_3223,Differential gene expression profiling,644
+57,http://edamontology.org/operation_0321,Protein structure validation,178
+58,http://edamontology.org/operation_0480,Side chain modelling,94
+59,http://edamontology.org/operation_3432,Clustering,854
+60,http://edamontology.org/operation_0320,Protein structure assignment,60
+61,http://edamontology.org/operation_3208,Genome visualisation,237
+62,http://edamontology.org/operation_3450,Neurite measurement,49
+63,http://edamontology.org/operation_3629,Deisotoping,276
+64,http://edamontology.org/operation_0250,Protein property calculation,113
+65,http://edamontology.org/operation_0531,Heat map generation,78
+66,http://edamontology.org/operation_2935,Clustering profile plotting,6
+67,http://edamontology.org/operation_3563,RNA-seq read count analysis,38
+68,http://edamontology.org/operation_2943,Box-Whisker plot plotting,26
+69,http://edamontology.org/operation_3232,Gene expression QTL analysis,129
+70,http://edamontology.org/operation_3799,Quantification,963
+71,http://edamontology.org/operation_3731,Sample comparison,49
+72,http://edamontology.org/operation_0331,Variant effect prediction,236
+73,http://edamontology.org/operation_3501,Enrichment analysis,655
+74,http://edamontology.org/operation_3552,Microscope image visualisation,107
+75,http://edamontology.org/operation_2481,Nucleic acid structure analysis,34
+76,http://edamontology.org/operation_2476,Molecular dynamics,409
+77,http://edamontology.org/operation_0525,Genome assembly,327
+78,http://edamontology.org/operation_3216,Scaffolding,411
+79,http://edamontology.org/operation_2406,Protein structure analysis,156
+80,http://edamontology.org/operation_2414,Protein function analysis,33
+81,http://edamontology.org/operation_3646,Peptide database search,90
+82,http://edamontology.org/operation_2997,Protein comparison,14
+83,http://edamontology.org/operation_0478,Molecular docking,232
+84,http://edamontology.org/operation_3561,Database comparison,33
+85,http://edamontology.org/operation_0474,Protein structure prediction,338
+86,http://edamontology.org/operation_0477,Protein modelling,362
+87,http://edamontology.org/operation_2487,Protein structure comparison,71
+88,http://edamontology.org/operation_0481,Loop modelling,51
+89,http://edamontology.org/operation_0268,Protein super-secondary structure prediction,15
+90,http://edamontology.org/operation_0407,Protein hydrophobic moment plotting,11
+91,http://edamontology.org/operation_2492,Protein interaction prediction,332
+92,http://edamontology.org/operation_0297,3D profile generation,17
+93,http://edamontology.org/operation_0245,Structural motif discovery,86
+94,http://edamontology.org/operation_0303,Fold recognition,387
+95,http://edamontology.org/operation_3659,Regression analysis,979
+96,http://edamontology.org/operation_0264,Alternative splicing prediction,126
+97,http://edamontology.org/operation_2939,Principal component visualisation,238
+98,http://edamontology.org/operation_3680,RNA-Seq analysis,233
+99,http://edamontology.org/operation_3800,RNA-Seq quantification,194
+100,http://edamontology.org/operation_3755,PTM localisation,124
+101,http://edamontology.org/operation_3351,Molecular surface analysis,20
+102,http://edamontology.org/operation_3666,Molecular surface comparison,10
+103,http://edamontology.org/operation_0278,RNA secondary structure prediction,216
+104,http://edamontology.org/operation_0502,RNA secondary structure alignment,102
+105,http://edamontology.org/operation_2441,RNA structure prediction,114
+106,http://edamontology.org/operation_0564,Sequence visualisation,172
+107,http://edamontology.org/operation_3553,Image annotation,143
+108,http://edamontology.org/operation_0295,Structure alignment,86
+109,http://edamontology.org/operation_0504,Multiple structure alignment,22
+110,http://edamontology.org/operation_3222,Peak calling,271
+111,http://edamontology.org/operation_3457,Single particle analysis,35
+112,http://edamontology.org/operation_3663,Homology-based gene prediction,67
+113,http://edamontology.org/operation_3767,Protein identification,207
+114,http://edamontology.org/operation_0475,Nucleic acid structure prediction,60
+115,http://edamontology.org/operation_2483,Structure comparison,26
+116,http://edamontology.org/operation_3927,Network analysis,619
+117,http://edamontology.org/operation_3625,Relation extraction,111
+118,http://edamontology.org/operation_4009,Small molecule design,247
+119,http://edamontology.org/operation_2949,Protein-protein interaction analysis,96
+120,http://edamontology.org/operation_3350,Protein quaternary structure prediction,16
+121,http://edamontology.org/operation_0246,Protein domain recognition,37
+122,http://edamontology.org/operation_0248,Residue interaction calculation,19
+123,http://edamontology.org/operation_2429,Mapping,444
+124,http://edamontology.org/operation_0482,Protein-ligand docking,157
+125,http://edamontology.org/operation_0448,Sequence alignment analysis (conservation),48
+126,http://edamontology.org/operation_0322,Molecular model refinement,51
+127,http://edamontology.org/operation_0339,Structure database search,29
+128,http://edamontology.org/operation_0360,Structural similarity search,60
+129,http://edamontology.org/operation_2442,DNA structure prediction,19
+130,http://edamontology.org/operation_0279,Nucleic acid folding analysis,54
+131,http://edamontology.org/operation_3891,Essential dynamics,937
+132,http://edamontology.org/operation_3083,Pathway or network visualisation,200
+133,http://edamontology.org/operation_3890,Trajectory visualization,42
+134,http://edamontology.org/operation_3661,SNP annotation,127
+135,http://edamontology.org/operation_0314,Gene expression profiling,674
+136,http://edamontology.org/operation_0389,Protein-nucleic acid interaction analysis,16
+137,http://edamontology.org/operation_0445,Transcription factor binding site prediction,200
+138,http://edamontology.org/operation_0282,Genetic mapping,228
+139,http://edamontology.org/operation_0283,Linkage analysis,62
+140,http://edamontology.org/operation_3096,Editing,336
+141,http://edamontology.org/operation_0491,Pairwise sequence alignment,138
+142,http://edamontology.org/operation_0249,Protein geometry calculation,51
+143,http://edamontology.org/operation_0252,Peptide immunogenicity prediction,191
+144,http://edamontology.org/operation_0416,Epitope mapping,176
+145,http://edamontology.org/operation_3454,Phasing,422
+146,http://edamontology.org/operation_0238,Sequence motif discovery,165
+147,http://edamontology.org/operation_2404,Sequence motif analysis,28
+148,http://edamontology.org/operation_0239,Sequence motif recognition,237
+149,http://edamontology.org/operation_0240,Sequence motif comparison,33
+150,http://edamontology.org/operation_2937,Proximity map plotting,13
+151,http://edamontology.org/operation_3463,Expression correlation analysis,356
+152,http://edamontology.org/operation_3766,Weighted correlation network analysis,113
+153,http://edamontology.org/operation_3797,Rarefaction,22
+154,http://edamontology.org/operation_3434,Conversion,35
+155,http://edamontology.org/operation_2478,Nucleic acid sequence analysis,172
+156,http://edamontology.org/operation_0387,Molecular surface calculation,66
+157,http://edamontology.org/operation_0417,Post-translational modification site prediction,386
+158,http://edamontology.org/operation_3565,RNA-seq time series data analysis,35
+159,http://edamontology.org/operation_2489,Subcellular localisation prediction,203
+160,http://edamontology.org/operation_3896,Active site prediction,15
+161,http://edamontology.org/operation_3897,Ligand-binding site prediction,16
+162,http://edamontology.org/operation_2480,Structure analysis,80
+163,http://edamontology.org/operation_0291,Sequence clustering,88
+164,http://edamontology.org/operation_0361,Sequence annotation,158
+165,http://edamontology.org/operation_3894,DNA profiling,21
+166,http://edamontology.org/operation_3482,Antimicrobial resistance prediction,102
+167,http://edamontology.org/operation_3267,Sequence coordinate conversion,6
+168,http://edamontology.org/operation_0315,Expression profile comparison,81
+169,http://edamontology.org/operation_3741,Differential protein expression profiling,51
+170,http://edamontology.org/operation_0490,Dot plot plotting,42
+171,http://edamontology.org/operation_2940,Scatter plot plotting,86
+172,http://edamontology.org/operation_0463,miRNA target prediction,264
+173,http://edamontology.org/operation_3792,miRNA expression analysis,216
+174,http://edamontology.org/operation_3791,Collapsing methods,88
+175,http://edamontology.org/operation_0308,PCR primer design,271
+176,http://edamontology.org/operation_3899,Protein-protein docking,128
+177,http://edamontology.org/operation_2423,Prediction and recognition,403
+178,http://edamontology.org/operation_3092,Protein feature detection,349
+179,http://edamontology.org/operation_3631,Peptide identification,180
+180,http://edamontology.org/operation_0533,Expression profile pathway mapping,130
+181,http://edamontology.org/operation_2436,Gene-set enrichment analysis,570
+182,http://edamontology.org/operation_3935,Dimensionality reduction,289
+183,http://edamontology.org/operation_2499,Splicing analysis,63
+184,http://edamontology.org/operation_3658,Statistical inference,123
+185,http://edamontology.org/operation_3802,Sorting,190
+186,http://edamontology.org/operation_3627,Mass spectra calibration,62
+187,http://edamontology.org/operation_3803,Natural product identification,103
+188,http://edamontology.org/operation_2495,Expression analysis,1086
+189,http://edamontology.org/operation_3237,Primer removal,56
+190,http://edamontology.org/operation_3439,Pathway or network prediction,342
+191,http://edamontology.org/operation_3778,Text annotation,118
+192,http://edamontology.org/operation_3352,Ontology comparison,29
+193,http://edamontology.org/operation_2938,Dendrogram visualisation,35
+194,http://edamontology.org/operation_2409,Data handling,499
+195,http://edamontology.org/operation_0438,Transcriptional regulatory element prediction,219
+196,http://edamontology.org/operation_2451,Sequence comparison,81
+197,http://edamontology.org/operation_3677,Differential binding analysis,7
+198,http://edamontology.org/operation_1812,Parsing,463
+199,http://edamontology.org/operation_3226,Variant prioritisation,220
+200,http://edamontology.org/operation_3562,Network simulation,100
+201,http://edamontology.org/operation_0476,Ab initio structure prediction,81
+202,http://edamontology.org/operation_0292,Sequence alignment,387
+203,http://edamontology.org/operation_0336,Format validation,27
+204,http://edamontology.org/operation_0567,Phylogenetic tree visualisation,104
+205,http://edamontology.org/operation_3715,Metabolic labeling,29
+206,http://edamontology.org/operation_3801,Spectral library search,50
+207,http://edamontology.org/operation_3634,Label-free quantification,35
+208,http://edamontology.org/operation_3638,SILAC,25
+209,http://edamontology.org/operation_3639,iTRAQ,21
+210,http://edamontology.org/operation_0418,Protein signal peptide detection,95
+211,http://edamontology.org/operation_2929,Protein fragment weight comparison,78
+212,http://edamontology.org/operation_0495,Local alignment,102
+213,http://edamontology.org/operation_2950,Residue distance calculation,56
+214,http://edamontology.org/operation_2464,Protein-protein binding site prediction,116
+215,http://edamontology.org/operation_3903,DNA binding site prediction,22
+216,http://edamontology.org/operation_3359,Splitting,269
+217,http://edamontology.org/operation_0323,Phylogenetic inference,188
+218,http://edamontology.org/operation_3644,de Novo sequencing,140
+219,http://edamontology.org/operation_3502,Chemical similarity enrichment,15
+220,http://edamontology.org/operation_0277,Pathway or network comparison,91
+221,http://edamontology.org/operation_0487,Haplotype mapping,265
+222,http://edamontology.org/operation_0253,Sequence feature detection,151
+223,http://edamontology.org/operation_2415,Protein folding analysis,64
+224,http://edamontology.org/operation_3478,Phylogenetic reconstruction,177
+225,http://edamontology.org/operation_0244,Simulation analysis,188
+226,http://edamontology.org/operation_0409,Protein solubility prediction,30
+227,http://edamontology.org/operation_3200,DNA barcoding,133
+228,http://edamontology.org/operation_3182,Genome alignment,74
+229,http://edamontology.org/operation_3209,Genome comparison,64
+230,http://edamontology.org/operation_3204,Methylation analysis,119
+231,http://edamontology.org/operation_3798,Read binning,131
+232,http://edamontology.org/operation_3218,Sequencing quality control,175
+233,http://edamontology.org/operation_0226,Annotation,143
+234,http://edamontology.org/operation_3233,Copy number estimation,105
+235,http://edamontology.org/operation_0558,Phylogenetic tree annotation,42
+236,http://edamontology.org/operation_0309,Microarray probe design,27
+237,http://edamontology.org/operation_0272,Residue contact prediction,155
+238,http://edamontology.org/operation_0394,Hydrogen bond calculation,42
+239,http://edamontology.org/operation_3672,Gene functional annotation,173
+240,http://edamontology.org/operation_2497,Pathway or network analysis,285
+241,http://edamontology.org/operation_3199,Split read mapping,11
+242,http://edamontology.org/operation_3228,Structural variation detection,65
+243,http://edamontology.org/operation_1777,Protein function prediction,134
+244,http://edamontology.org/operation_3219,Read pre-processing,96
+245,http://edamontology.org/operation_3215,Peak detection,160
+246,http://edamontology.org/operation_3564,Chemical redundancy removal,4
+247,http://edamontology.org/operation_0420,Nucleic acids-binding site prediction,47
+248,http://edamontology.org/operation_0410,Protein crystallizability prediction,7
+249,http://edamontology.org/operation_3280,Named-entity and concept recognition,130
+250,http://edamontology.org/operation_3211,Genome indexing,181
+251,http://edamontology.org/operation_1781,Gene regulatory network analysis,235
+252,http://edamontology.org/operation_0488,Linkage disequilibrium calculation,68
+253,http://edamontology.org/operation_3761,Service discovery,26
+254,http://edamontology.org/operation_0451,Recombination detection,66
+255,http://edamontology.org/operation_3660,Metabolic network modelling,235
+256,http://edamontology.org/operation_0230,Sequence generation,15
+257,http://edamontology.org/operation_0435,Operon prediction,32
+258,http://edamontology.org/operation_2238,Statistical calculation,459
+259,http://edamontology.org/operation_0338,Sequence database search,70
+260,http://edamontology.org/operation_2518,Nucleic acid structure comparison,25
+261,http://edamontology.org/operation_3186,Bisulfite mapping,81
+262,http://edamontology.org/operation_3206,Whole genome methylation analysis,34
+263,http://edamontology.org/operation_3207,Gene methylation analysis,73
+264,http://edamontology.org/operation_3195,Sequencing error detection,47
+265,http://edamontology.org/operation_0450,Chimera detection,22
+266,http://edamontology.org/operation_0496,Global alignment,61
+267,http://edamontology.org/operation_0326,Phylogenetic tree editing,86
+268,http://edamontology.org/operation_2425,Optimisation and refinement,65
+269,http://edamontology.org/operation_0262,Nucleic acid property calculation,15
+270,http://edamontology.org/operation_0302,Protein threading,35
+271,http://edamontology.org/operation_3645,PTM identification,60
+272,http://edamontology.org/operation_3446,Cell migration analysis,26
+273,http://edamontology.org/operation_0327,Phylogenetic footprinting,22
+274,http://edamontology.org/operation_0441,cis-regulatory element prediction,54
+275,http://edamontology.org/operation_0284,Codon usage table generation,25
+276,http://edamontology.org/operation_2962,Codon usage bias calculation,21
+277,http://edamontology.org/operation_2964,Codon usage fraction calculation,9
+278,http://edamontology.org/operation_0540,Phylogenetic inference (from molecular sequences),19
+279,http://edamontology.org/operation_0557,Phylogenetic tree distances calculation,20
+280,http://edamontology.org/operation_3760,Service management,53
+281,http://edamontology.org/operation_3642,Stable isotope dimethyl labelling,22
+282,http://edamontology.org/operation_0300,Sequence profile alignment,31
+283,http://edamontology.org/operation_3630,Protein quantification,73
+284,http://edamontology.org/operation_0432,Nucleosome position prediction,19
+285,http://edamontology.org/operation_3675,Variant filtering,83
+286,http://edamontology.org/operation_0440,Promoter prediction,111
+287,http://edamontology.org/operation_0446,Exonic splicing enhancer prediction,46
+288,http://edamontology.org/operation_2871,Sequence tagged site (STS) mapping,36
+289,http://edamontology.org/operation_0443,trans-regulatory element prediction,29
+290,http://edamontology.org/operation_2233,Representative sequence identification,6
+291,http://edamontology.org/operation_3559,Ontology visualisation,69
+292,http://edamontology.org/operation_0452,Indel detection,86
+293,http://edamontology.org/operation_3185,Base-calling,90
+294,http://edamontology.org/operation_3637,Spectral counting,24
+295,http://edamontology.org/operation_3649,Target-Decoy,57
+296,http://edamontology.org/operation_0285,Codon usage table comparison,10
+297,http://edamontology.org/operation_0464,tRNA gene prediction,30
+298,http://edamontology.org/operation_0526,EST assembly,22
+299,http://edamontology.org/operation_3745,Ancestral reconstruction,73
+300,http://edamontology.org/operation_0384,Accessible surface calculation,28
+301,http://edamontology.org/operation_3357,Format detection,19
+302,http://edamontology.org/operation_0399,Protein extinction coefficient calculation,9
+303,http://edamontology.org/operation_3438,Calculation,38
+304,http://edamontology.org/operation_2945,Analysis,380
+305,http://edamontology.org/operation_0436,Coding region prediction,89
+306,http://edamontology.org/operation_2996,Structure classification,42
+307,http://edamontology.org/operation_0552,Phylogenetic tree bootstrapping,31
+308,http://edamontology.org/operation_0571,Expression data visualisation,100
+309,http://edamontology.org/operation_3184,Sequence assembly visualisation,31
+310,http://edamontology.org/operation_3795,In vitro selection,12
+311,http://edamontology.org/operation_2424,Comparison,71
+312,http://edamontology.org/operation_3893,Forcefield parameterisation,44
+313,http://edamontology.org/operation_0560,DNA vaccine design,30
+314,http://edamontology.org/operation_2437,Gene regulatory network prediction,126
+315,http://edamontology.org/operation_3664,Statistical modelling,73
+316,http://edamontology.org/operation_3901,RNA-binding protein prediction,100
+317,http://edamontology.org/operation_3904,Protein disorder prediction,77
+318,http://edamontology.org/operation_3633,Retention time prediction,36
+319,http://edamontology.org/operation_0269,Transmembrane protein prediction,110
+320,http://edamontology.org/operation_2995,Sequence classification,105
+321,http://edamontology.org/operation_3095,Nucleic acid design,33
+322,http://edamontology.org/operation_0469,Protein secondary structure prediction (turns),12
+323,http://edamontology.org/operation_0227,Indexing,44
+324,http://edamontology.org/operation_3908,Information retrieval,8
+325,http://edamontology.org/operation_3187,Sequence contamination filtering,23
+326,http://edamontology.org/operation_3902,RNA binding site prediction,54
+327,http://edamontology.org/operation_0422,Protein cleavage site prediction,44
+328,http://edamontology.org/operation_0366,Protein sequence cleavage,20
+329,http://edamontology.org/operation_3900,DNA-binding protein prediction,39
+330,http://edamontology.org/operation_3180,Sequence assembly validation,44
+331,http://edamontology.org/operation_0428,PolyA signal detection,33
+332,http://edamontology.org/operation_0492,Multiple sequence alignment,244
+333,http://edamontology.org/operation_0433,Splice site prediction,88
+334,http://edamontology.org/operation_3230,Read depth analysis,17
+335,http://edamontology.org/operation_0427,Transposon prediction,24
+336,http://edamontology.org/operation_0523,Mapping assembly,63
+337,http://edamontology.org/operation_3349,Bibliography generation,10
+338,http://edamontology.org/operation_3429,Generation,57
+339,http://edamontology.org/operation_2990,Classification,105
+340,http://edamontology.org/operation_2430,Design,36
+341,http://edamontology.org/operation_3632,Isotopic distributions calculation,29
+342,http://edamontology.org/operation_0547,Phylogenetic inference (maximum likelihood and Bayesian methods),43
+343,http://edamontology.org/operation_0379,Repeat sequence detection,46
+344,http://edamontology.org/operation_0483,RNA inverse folding,32
+345,http://edamontology.org/operation_0346,Sequence similarity search,138
+346,http://edamontology.org/operation_3279,Document clustering,8
+347,http://edamontology.org/operation_0503,Pairwise structure alignment,25
+348,http://edamontology.org/operation_0509,Local structure alignment,17
+349,http://edamontology.org/operation_0510,Global structure alignment,23
+350,http://edamontology.org/operation_3453,Diffraction data integration,12
+351,http://edamontology.org/operation_0551,Phylogenetic tree topology analysis,24
+352,http://edamontology.org/operation_0305,Literature search,80
+353,http://edamontology.org/operation_0479,Backbone modelling,96
+354,http://edamontology.org/operation_1778,Protein function comparison,5
+355,http://edamontology.org/operation_2419,Primer and probe design,57
+356,http://edamontology.org/operation_0325,Phylogenetic tree comparison,48
+357,http://edamontology.org/operation_0499,Tree-based sequence alignment,34
+358,http://edamontology.org/operation_0544,Species tree construction,45
+359,http://edamontology.org/operation_0546,Phylogenetic inference (minimum distance methods),15
+360,http://edamontology.org/operation_3229,Exome assembly,8
+361,http://edamontology.org/operation_3929,Metabolic pathway prediction,105
+362,http://edamontology.org/operation_3214,Spectral analysis,156
+363,http://edamontology.org/operation_0392,Contact map calculation,14
+364,http://edamontology.org/operation_0539,Phylogenetic inference (method centric),9
+365,http://edamontology.org/operation_0578,Plasmid map drawing,24
+366,http://edamontology.org/operation_3456,Rigid body refinement,7
+367,http://edamontology.org/operation_3694,Mass spectrum visualisation,75
+368,http://edamontology.org/operation_3744,Multiple sample visualisation,29
+369,http://edamontology.org/operation_3933,Demultiplexing,83
+370,http://edamontology.org/operation_2416,Protein secondary structure analysis,20
+371,http://edamontology.org/operation_3458,Single particle alignment and classification,23
+372,http://edamontology.org/operation_0237,Repeat sequence analysis,42
+373,http://edamontology.org/operation_3635,Labeled quantification,27
+374,http://edamontology.org/operation_3641,TMT-tag,7
+375,http://edamontology.org/operation_3705,Isotope-coded protein label,14
+376,http://edamontology.org/operation_3081,Sequence alignment editing,9
+377,http://edamontology.org/operation_0270,Transmembrane protein analysis,40
+378,http://edamontology.org/operation_0368,Sequence masking,17
+379,http://edamontology.org/operation_0455,Nucleic acid thermodynamic property calculation,36
+380,http://edamontology.org/operation_3907,Information extraction,68
+381,http://edamontology.org/operation_0004,Operation,10
+382,http://edamontology.org/operation_2241,Transmembrane protein visualisation,26
+383,http://edamontology.org/operation_3643,Tag-based peptide identification,35
+384,http://edamontology.org/operation_3647,Blind peptide database search,27
+385,http://edamontology.org/operation_0555,Consensus tree construction,17
+386,http://edamontology.org/operation_3480,Probabilistic data generation,8
+387,http://edamontology.org/operation_1816,Surface rendering,17
+388,http://edamontology.org/operation_0543,Phylogenetic inference (from polymorphism data),5
+389,http://edamontology.org/operation_3938,Virtual screening,263
+390,http://edamontology.org/operation_3762,Service composition,28
+391,http://edamontology.org/operation_3763,Service invocation,41
+392,http://edamontology.org/operation_0234,Sequence complexity calculation,6
+393,http://edamontology.org/operation_0364,Random sequence generation,14
+394,http://edamontology.org/operation_3898,Metal-binding site prediction,15
+395,http://edamontology.org/operation_3730,Cross-assembly,2
+396,http://edamontology.org/operation_0258,Sequence alignment analysis,49
+397,http://edamontology.org/operation_3928,Pathway analysis,161
+398,http://edamontology.org/operation_0349,Sequence database search (by property),19
+399,http://edamontology.org/operation_3925,Network visualisation,195
+400,http://edamontology.org/operation_3926,Pathway visualisation,50
+401,http://edamontology.org/operation_0386,Protein dipole moment calculation,7
+402,http://edamontology.org/operation_0307,Virtual PCR,17
+403,http://edamontology.org/operation_0290,Sequence redundancy removal,9
+404,http://edamontology.org/operation_0548,Phylogenetic inference (quartet methods),6
+405,http://edamontology.org/operation_3194,Genome feature comparison,23
+406,http://edamontology.org/operation_0415,Nucleic acid feature detection,127
+407,http://edamontology.org/operation_0573,Map drawing,26
+408,http://edamontology.org/operation_3203,Chromatogram visualisation,42
+409,http://edamontology.org/operation_3628,Chromatographic alignment,23
+410,http://edamontology.org/operation_0553,Gene tree construction,55
+411,http://edamontology.org/operation_3942,Tree dating,19
+412,http://edamontology.org/operation_1843,Residue packing validation,1
+413,http://edamontology.org/operation_0545,Phylogenetic inference (parsimony methods),14
+414,http://edamontology.org/operation_0372,DNA transcription,35
+415,http://edamontology.org/operation_2930,Protein property comparison,7
+416,http://edamontology.org/operation_0363,Reverse complement,34
+417,http://edamontology.org/operation_0289,Sequence distance matrix generation,25
+418,http://edamontology.org/operation_0465,siRNA binding specificity prediction,14
+419,http://edamontology.org/operation_2008,siRNA duplex prediction,17
+420,http://edamontology.org/operation_1844,Protein geometry validation,13
+421,http://edamontology.org/operation_0554,Allele frequency distribution analysis,21
+422,http://edamontology.org/operation_0575,Restriction map drawing,6
+423,http://edamontology.org/operation_2474,Protein architecture comparison,3
+424,http://edamontology.org/operation_2475,Protein architecture recognition,16
+425,http://edamontology.org/operation_0334,Enzyme kinetics calculation,24
+426,http://edamontology.org/operation_0296,Sequence profile generation,21
+427,http://edamontology.org/operation_0550,DNA substitution modelling,22
+428,http://edamontology.org/operation_3963,Duplication detection,9
+429,http://edamontology.org/operation_3278,Document similarity calculation,5
+430,http://edamontology.org/operation_0461,Nucleic acid curvature calculation,7
+431,http://edamontology.org/operation_3183,Localised reassembly,8
+432,http://edamontology.org/operation_0447,Sequence alignment validation,14
+433,http://edamontology.org/operation_2928,Alignment,59
+434,http://edamontology.org/operation_3636,MRM/SRM,10
+435,http://edamontology.org/operation_0471,Disulfide bond prediction,11
+436,http://edamontology.org/operation_1850,Protein cysteine and disulfide bond assignment,11
+437,http://edamontology.org/operation_0408,Protein globularity prediction,16
+438,http://edamontology.org/operation_4008,Protein design,26
+439,http://edamontology.org/operation_1839,Salt bridge calculation,13
+440,http://edamontology.org/operation_0236,Sequence composition calculation,46
+441,http://edamontology.org/operation_2520,DNA mapping,39
+442,http://edamontology.org/operation_3946,Ecological modelling,39
+443,http://edamontology.org/operation_3960,Principal component analysis,41
+444,http://edamontology.org/operation_0527,Sequence tag mapping,26
+445,http://edamontology.org/operation_0579,Operon drawing,13
+446,http://edamontology.org/operation_3094,Protein interaction network prediction,78
+447,http://edamontology.org/operation_0231,Sequence editing,32
+448,http://edamontology.org/operation_0265,Frameshift detection,7
+449,http://edamontology.org/operation_2089,Sequence alignment refinement,9
+450,http://edamontology.org/operation_3217,Scaffold gap completion,8
+451,http://edamontology.org/operation_0542,Phylogenetic inference (from gene frequencies),2
+452,http://edamontology.org/operation_3221,Species frequency estimation,14
+453,http://edamontology.org/operation_0260,Sequence alignment conversion,15
+454,http://edamontology.org/operation_3968,Adhesin prediction,3
+455,http://edamontology.org/operation_3920,DNA testing,17
+456,http://edamontology.org/operation_0233,Sequence conversion,12
+457,http://edamontology.org/operation_0365,Restriction digest,10
+458,http://edamontology.org/operation_0271,Structure prediction,25
+459,http://edamontology.org/operation_0247,Protein architecture analysis,8
+460,http://edamontology.org/operation_0259,Sequence alignment comparison,12
+461,http://edamontology.org/operation_0287,Base position variability plotting,3
+462,http://edamontology.org/operation_0294,Structure-based sequence alignment,17
+463,http://edamontology.org/operation_0371,DNA translation,26
+464,http://edamontology.org/operation_3080,Structure editing,5
+465,http://edamontology.org/operation_3445,Diffraction data analysis,9
+466,http://edamontology.org/operation_3566,Simulated gene expression data generation,27
+467,http://edamontology.org/operation_3919,Methylation calling,40
+468,http://edamontology.org/operation_3947,Phylogenetic tree reconciliation,25
+469,http://edamontology.org/operation_3662,Ab-initio gene prediction,9
+470,http://edamontology.org/operation_3961,Copy number variation detection,29
+471,http://edamontology.org/operation_0404,Protein hydrogen exchange rate calculation,8
+472,http://edamontology.org/operation_3465,Correlation,22
+473,http://edamontology.org/operation_3793,Read summarisation,8
+474,http://edamontology.org/operation_3459,Functional clustering,22
+475,http://edamontology.org/operation_0444,S/MAR prediction,6
+476,http://edamontology.org/operation_0403,Protein isoelectric point calculation,7
+477,http://edamontology.org/operation_0489,Genetic code prediction,7
+478,http://edamontology.org/operation_3809,DMR identification,29
+479,http://edamontology.org/operation_3704,Ion counting,13
+480,http://edamontology.org/operation_2844,Structure clustering,12
+481,http://edamontology.org/operation_0286,Codon usage analysis,24
+482,http://edamontology.org/operation_1831,Metal-bound cysteine detection,5
+483,http://edamontology.org/operation_1834,Protein-metal contact calculation,4
+484,http://edamontology.org/operation_3455,Molecular replacement,13
+485,http://edamontology.org/operation_2513,Sequence generation (nucleic acid),1
+486,http://edamontology.org/operation_0369,Sequence cutting,18
+487,http://edamontology.org/operation_0367,Sequence mutation and randomisation,13
+488,http://edamontology.org/operation_2998,Nucleic acid comparison,6
+489,http://edamontology.org/operation_3481,Probabilistic sequence generation,6
+490,http://edamontology.org/operation_3441,Plotting,24
+491,http://edamontology.org/operation_3962,Deletion detection,7
+492,http://edamontology.org/operation_0393,Residue cluster calculation,7
+493,http://edamontology.org/operation_2439,RNA secondary structure analysis,48
+494,http://edamontology.org/operation_0398,Protein molecular weight calculation,18
+495,http://edamontology.org/operation_3918,Genome analysis,8
+496,http://edamontology.org/operation_0405,Protein hydrophobic region calculation,8
+497,http://edamontology.org/operation_0256,Sequence feature comparison,23
+498,http://edamontology.org/operation_0266,Vector sequence detection,6
+499,http://edamontology.org/operation_0449,Sequence alignment analysis (site correlation),12
+500,http://edamontology.org/operation_3965,Amplification detection,6
+501,http://edamontology.org/operation_0566,Sequence cluster visualisation,8
+502,http://edamontology.org/operation_3469,RNA structure covariance model generation,12
+503,http://edamontology.org/operation_3964,Complex CNV detection,4
+504,http://edamontology.org/operation_0556,Phylogenetic sub/super tree construction,8
+505,http://edamontology.org/operation_2963,Codon usage bias plotting,3
+506,http://edamontology.org/operation_0235,Sequence ambiguity calculation,4
+507,http://edamontology.org/operation_3224,Gene set testing,44
+508,http://edamontology.org/operation_0458,Nucleic acid melting curve plotting,5
+509,http://edamontology.org/operation_1830,Free cysteine detection,5
+510,http://edamontology.org/operation_3648,Validation of peptide-spectrum matches,17
+511,http://edamontology.org/operation_2284,Nucleic acid density plotting,2
+512,http://edamontology.org/operation_1829,Cysteine bridge detection,2
+513,http://edamontology.org/operation_2574,Protein hydropathy calculation,13
+514,http://edamontology.org/operation_0400,Protein pKa calculation,8
+515,http://edamontology.org/operation_3437,Article comparison,1
+516,http://edamontology.org/operation_0457,Nucleic acid stitch profile plotting,2
+517,http://edamontology.org/operation_0288,Sequence word comparison,8
+518,http://edamontology.org/operation_0460,Nucleic acid temperature profile plotting,6
+519,http://edamontology.org/operation_0429,Quadruplex formation site detection,12
+520,http://edamontology.org/operation_0402,Protein titration curve plotting,1
+521,http://edamontology.org/operation_0439,Translation initiation site prediction,6
+522,http://edamontology.org/operation_0391,Protein distance matrix calculation,1
+523,http://edamontology.org/operation_2936,Dendrograph plotting,1
+524,http://edamontology.org/operation_3703,Reference identification,4
+525,http://edamontology.org/operation_0401,Protein hydropathy calculation (from sequence),1
+526,http://edamontology.org/operation_1836,Residue bump detection,2
+527,http://edamontology.org/operation_3447,Diffraction data reduction,3
+528,http://edamontology.org/operation_0390,Protein peeling,4
+529,http://edamontology.org/operation_2239,3D-1D scoring matrix generation,2
+530,http://edamontology.org/operation_0380,Repeat sequence organisation analysis,9
+531,http://edamontology.org/operation_3023,Prediction and recognition (protein),2
+532,http://edamontology.org/operation_3024,Prediction and recognition (nucleic acid),1
+533,http://edamontology.org/operation_0431,Restriction site recognition,10
+534,http://edamontology.org/operation_0538,Phylogenetic inference (data centric),1
+535,http://edamontology.org/operation_2514,Sequence generation (protein),2
+536,http://edamontology.org/operation_0459,Nucleic acid probability profile plotting,1
+537,http://edamontology.org/operation_2485,Helical wheel drawing,2
+538,http://edamontology.org/operation_3640,18O labeling,2
+539,http://edamontology.org/operation_0406,Protein aliphatic index calculation,1
+540,http://edamontology.org/operation_2502,Protein analysis,2
+541,http://edamontology.org/operation_0472,GPCR prediction,1
+542,http://edamontology.org/operation_0437,SECIS element prediction,1
+543,http://edamontology.org/operation_0485,Radiation Hybrid Mapping,1
+544,http://edamontology.org/operation_3348,Sequence checksum generation,1
+545,http://edamontology.org/operation_0456,Nucleic acid melting profile plotting,1

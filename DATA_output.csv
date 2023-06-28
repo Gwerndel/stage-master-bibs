@@ -1,0 +1,355 @@
+data,count,label
+http://edamontology.org/data_0006,439,Data
+http://edamontology.org/data_2048,272,Report
+http://edamontology.org/data_2884,229,Plot
+http://edamontology.org/data_1277,136,Protein features
+http://edamontology.org/data_0863,132,Sequence alignment
+http://edamontology.org/data_2968,128,Image
+http://edamontology.org/data_2600,101,Pathway or network
+http://edamontology.org/data_0916,100,Gene report
+http://edamontology.org/data_1772,84,Score
+http://edamontology.org/data_1255,78,Sequence features
+http://edamontology.org/data_1276,77,Nucleic acid features
+http://edamontology.org/data_3498,73,Sequence variations
+http://edamontology.org/data_0857,69,Sequence search results
+http://edamontology.org/data_2080,67,Database search results
+http://edamontology.org/data_0849,67,Sequence record
+http://edamontology.org/data_2955,61,Sequence report
+http://edamontology.org/data_0945,60,Peptide identification
+http://edamontology.org/data_1636,56,Heat map
+http://edamontology.org/data_2603,50,Expression data
+http://edamontology.org/data_0896,48,Protein report
+http://edamontology.org/data_0943,48,Mass spectrum
+http://edamontology.org/data_0872,47,Phylogenetic tree
+http://edamontology.org/data_2536,45,Mass spectrometry data
+http://edamontology.org/data_3002,44,Annotation track
+http://edamontology.org/data_1669,44,P-value
+http://edamontology.org/data_1383,44,Nucleic acid sequence alignment
+http://edamontology.org/data_2526,41,Text data
+http://edamontology.org/data_2044,39,Sequence
+http://edamontology.org/data_1460,38,Protein structure
+http://edamontology.org/data_1537,36,Protein structure report
+http://edamontology.org/data_3753,35,Over-representation data
+http://edamontology.org/data_0924,35,Sequence trace
+http://edamontology.org/data_0906,33,Protein interaction data
+http://edamontology.org/data_3786,31,Query script
+http://edamontology.org/data_3028,31,Taxonomy
+http://edamontology.org/data_2082,30,Matrix
+http://edamontology.org/data_0951,28,Statistical estimate score
+http://edamontology.org/data_1381,27,Pair sequence alignment
+http://edamontology.org/data_1270,27,Feature table
+http://edamontology.org/data_2977,26,Nucleic acid sequence
+http://edamontology.org/data_1916,25,Alignment
+http://edamontology.org/data_0850,24,Sequence set
+http://edamontology.org/data_0842,23,Identifier
+http://edamontology.org/data_2093,22,Data reference
+http://edamontology.org/data_0950,22,Mathematical model
+http://edamontology.org/data_2531,22,Protocol
+http://edamontology.org/data_0944,21,Peptide mass fingerprint
+http://edamontology.org/data_3134,21,Gene transcript report
+http://edamontology.org/data_0957,21,Database metadata
+http://edamontology.org/data_1353,21,Sequence motif
+http://edamontology.org/data_0907,21,Protein family report
+http://edamontology.org/data_3870,20,Trajectory data
+http://edamontology.org/data_2070,20,Sequence motif (nucleic acid)
+http://edamontology.org/data_3494,19,DNA sequence
+http://edamontology.org/data_0925,19,Sequence assembly
+http://edamontology.org/data_1245,19,Sequence cluster (protein)
+http://edamontology.org/data_3112,18,Gene expression matrix
+http://edamontology.org/data_2012,18,Sequence coordinates
+http://edamontology.org/data_0920,18,Genotype/phenotype report
+http://edamontology.org/data_1384,18,Protein sequence alignment
+http://edamontology.org/data_0962,18,Small molecule report
+http://edamontology.org/data_2984,17,Pathway or network report
+http://edamontology.org/data_2353,17,Ontology data
+http://edamontology.org/data_2886,17,Protein sequence record
+http://edamontology.org/data_0883,16,Structure
+http://edamontology.org/data_0928,16,Gene expression profile
+http://edamontology.org/data_2887,16,Nucleic acid sequence record
+http://edamontology.org/data_1622,16,Disease report
+http://edamontology.org/data_0867,15,Sequence alignment report
+http://edamontology.org/data_0958,14,Tool metadata
+http://edamontology.org/data_0858,14,Sequence signature matches
+http://edamontology.org/data_3111,13,Processed microarray data
+http://edamontology.org/data_0862,13,Dotplot
+http://edamontology.org/data_2085,12,Structure report
+http://edamontology.org/data_3872,12,Topology data
+http://edamontology.org/data_2992,11,Protein structure image
+http://edamontology.org/data_0897,11,Protein property
+http://edamontology.org/data_3768,11,Clustered expression profiles
+http://edamontology.org/data_2976,11,Protein sequence
+http://edamontology.org/data_1463,11,Small molecule structure
+http://edamontology.org/data_2223,11,Ontology metadata
+http://edamontology.org/data_2087,10,Molecular property
+http://edamontology.org/data_2084,10,Nucleic acid report
+http://edamontology.org/data_1274,10,Map
+http://edamontology.org/data_2523,10,Phylogenetic data
+http://edamontology.org/data_0880,10,RNA secondary structure
+http://edamontology.org/data_0889,10,Structural profile
+http://edamontology.org/data_3779,9,Annotated text
+http://edamontology.org/data_2166,9,Sequence composition plot
+http://edamontology.org/data_1872,9,Taxonomic classification
+http://edamontology.org/data_1566,9,Protein-ligand interaction report
+http://edamontology.org/data_0955,9,Data index
+http://edamontology.org/data_1461,8,Protein-ligand complex
+http://edamontology.org/data_0963,8,Cell line report
+http://edamontology.org/data_1050,8,File name
+http://edamontology.org/data_3181,8,Sequence assembly report
+http://edamontology.org/data_1711,8,Sequence alignment image
+http://edamontology.org/data_1522,8,Protein sequence hydropathy plot
+http://edamontology.org/data_2877,8,Protein complex
+http://edamontology.org/data_0966,8,Ontology term
+http://edamontology.org/data_2610,7,Ensembl ID
+http://edamontology.org/data_2042,7,Evidence
+http://edamontology.org/data_2337,7,Resource metadata
+http://edamontology.org/data_3707,7,Biodiversity data
+http://edamontology.org/data_3495,7,RNA sequence
+http://edamontology.org/data_1539,7,Protein structural quality report
+http://edamontology.org/data_2878,7,Protein structural motif
+http://edamontology.org/data_1481,7,Protein structure alignment
+http://edamontology.org/data_1238,7,Proteolytic digest
+http://edamontology.org/data_1364,7,Hidden Markov model
+http://edamontology.org/data_1246,7,Sequence cluster (nucleic acid)
+http://edamontology.org/data_1707,7,Phylogenetic tree image
+http://edamontology.org/data_2858,7,Ontology concept
+http://edamontology.org/data_0954,7,Database cross-mapping
+http://edamontology.org/data_2969,6,Sequence image
+http://edamontology.org/data_1361,6,Position frequency matrix
+http://edamontology.org/data_3497,6,DNA sequence (raw)
+http://edamontology.org/data_0582,6,Ontology
+http://edamontology.org/data_0912,6,Nucleic acid property
+http://edamontology.org/data_3546,6,Image metadata
+http://edamontology.org/data_2854,6,Position-specific scoring matrix
+http://edamontology.org/data_0844,6,Molecular mass
+http://edamontology.org/data_1017,6,Sequence range
+http://edamontology.org/data_3914,6,Quality control report
+http://edamontology.org/data_1528,5,Protein isoelectric point
+http://edamontology.org/data_3736,5,Ecological data
+http://edamontology.org/data_3671,5,Text
+http://edamontology.org/data_3905,5,Histogram
+http://edamontology.org/data_1233,5,Sequence set (protein)
+http://edamontology.org/data_1354,5,Sequence profile
+http://edamontology.org/data_2530,5,Organism report
+http://edamontology.org/data_2711,5,Genome report
+http://edamontology.org/data_0869,5,Sequence-profile alignment
+http://edamontology.org/data_0870,5,Sequence distance matrix
+http://edamontology.org/data_1176,5,GO concept ID
+http://edamontology.org/data_2979,5,Peptide property
+http://edamontology.org/data_3210,5,Genome index
+http://edamontology.org/data_0972,5,Text mining report
+http://edamontology.org/data_3128,5,Nucleic acid structure report
+http://edamontology.org/data_3754,5,GO-term enrichment data
+http://edamontology.org/data_2872,5,ID list
+http://edamontology.org/data_2071,5,Sequence motif (protein)
+http://edamontology.org/data_1235,4,Sequence cluster
+http://edamontology.org/data_3932,4,Q-value
+http://edamontology.org/data_3021,4,UniProt accession
+http://edamontology.org/data_1917,4,Atomic property
+http://edamontology.org/data_0893,4,Sequence-structure alignment
+http://edamontology.org/data_1179,4,NCBI taxonomy ID
+http://edamontology.org/data_1025,4,Gene identifier
+http://edamontology.org/data_0989,4,Protein identifier
+http://edamontology.org/data_1712,4,Chemical structure image
+http://edamontology.org/data_3449,4,Cell migration track image
+http://edamontology.org/data_2050,4,Molecular property (general)
+http://edamontology.org/data_1710,4,Structure image
+http://edamontology.org/data_3505,4,Bibliography
+http://edamontology.org/data_0984,4,Molecule name
+http://edamontology.org/data_1234,4,Sequence set (nucleic acid)
+http://edamontology.org/data_3917,4,Count matrix
+http://edamontology.org/data_1520,4,Peptide hydrophobic moment
+http://edamontology.org/data_0942,3,2D PAGE image
+http://edamontology.org/data_0888,3,Structure similarity score
+http://edamontology.org/data_3108,3,Experimental measurement
+http://edamontology.org/data_1240,3,PCR primers
+http://edamontology.org/data_1278,3,Genetic map
+http://edamontology.org/data_3113,3,Sample annotation
+http://edamontology.org/data_1097,3,Sequence accession (nucleic acid)
+http://edamontology.org/data_3720,3,Geographic location
+http://edamontology.org/data_2912,3,Strain accession
+http://edamontology.org/data_1621,3,Pharmacogenomic test report
+http://edamontology.org/data_1459,3,Nucleic acid structure
+http://edamontology.org/data_3567,3,Reference sample report
+http://edamontology.org/data_2291,3,UniProt ID
+http://edamontology.org/data_1086,3,Compound identifier
+http://edamontology.org/data_2762,3,Sequence signature report
+http://edamontology.org/data_1355,3,Protein signature
+http://edamontology.org/data_2161,3,Sequence similarity plot
+http://edamontology.org/data_1261,3,Sequence composition report
+http://edamontology.org/data_1713,3,Fate map
+http://edamontology.org/data_2974,3,Protein sequence (raw)
+http://edamontology.org/data_3509,3,Ontology mapping
+http://edamontology.org/data_2313,3,Carbohydrate report
+http://edamontology.org/data_1863,3,Haplotype map
+http://edamontology.org/data_3272,3,Species tree
+http://edamontology.org/data_1465,3,RNA structure
+http://edamontology.org/data_2343,3,Pathway ID (KEGG)
+http://edamontology.org/data_1394,3,Alignment score or penalty
+http://edamontology.org/data_3669,2,Training material
+http://edamontology.org/data_1087,2,Ontology concept ID
+http://edamontology.org/data_3154,2,Protein alignment
+http://edamontology.org/data_0868,2,Profile-profile alignment
+http://edamontology.org/data_1127,2,PDB ID
+http://edamontology.org/data_2628,2,BioGRID interaction ID
+http://edamontology.org/data_1254,2,Sequence property
+http://edamontology.org/data_3271,2,Gene tree
+http://edamontology.org/data_2091,2,Accession
+http://edamontology.org/data_1743,2,Atomic coordinate
+http://edamontology.org/data_3722,2,Physiology parameter
+http://edamontology.org/data_3496,2,RNA sequence (raw)
+http://edamontology.org/data_2755,2,Transcription factor name
+http://edamontology.org/data_2024,2,Enzyme kinetics data
+http://edamontology.org/data_2108,2,Reaction ID
+http://edamontology.org/data_2865,2,Codon usage bias
+http://edamontology.org/data_0977,2,Tool identifier
+http://edamontology.org/data_3756,2,Localisation score
+http://edamontology.org/data_1597,2,Codon usage table
+http://edamontology.org/data_0905,2,Protein interaction raw data
+http://edamontology.org/data_2589,2,Hierarchy
+http://edamontology.org/data_1188,2,DOI
+http://edamontology.org/data_2978,2,Reaction data
+http://edamontology.org/data_2856,2,Structural distance matrix
+http://edamontology.org/data_2165,2,Protein ionisation curve
+http://edamontology.org/data_1193,2,Tool name (FASTA)
+http://edamontology.org/data_0914,2,Codon usage data
+http://edamontology.org/data_0846,2,Chemical formula
+http://edamontology.org/data_3479,2,Gene order
+http://edamontology.org/data_2970,2,Protein hydropathy data
+http://edamontology.org/data_1288,2,Genome map
+http://edamontology.org/data_2907,2,Protein accession
+http://edamontology.org/data_2975,2,Nucleic acid sequence (raw)
+http://edamontology.org/data_1119,2,JASPAR profile ID
+http://edamontology.org/data_2129,2,File format name
+http://edamontology.org/data_1498,2,Tanimoto similarity score
+http://edamontology.org/data_0982,2,Molecule identifier
+http://edamontology.org/data_0890,2,Structural (3D) profile alignment
+http://edamontology.org/data_2019,2,Map data
+http://edamontology.org/data_3483,2,Spectrum
+http://edamontology.org/data_1027,2,Gene ID (NCBI)
+http://edamontology.org/data_1667,2,E-value
+http://edamontology.org/data_1505,2,Amino acid index (molecular weight)
+http://edamontology.org/data_1155,2,Pathway ID (reactome)
+http://edamontology.org/data_2800,2,Orpha number
+http://edamontology.org/data_2855,2,Distance matrix
+http://edamontology.org/data_3869,2,Simulation
+http://edamontology.org/data_1708,2,RNA secondary structure image
+http://edamontology.org/data_1584,2,Nucleic acid enthalpy
+http://edamontology.org/data_2016,2,Amino acid property
+http://edamontology.org/data_2725,2,Ensembl transcript ID
+http://edamontology.org/data_2299,2,Gene name
+http://edamontology.org/data_0865,2,Sequence similarity score
+http://edamontology.org/data_0990,2,Compound name
+http://edamontology.org/data_1731,1,Ontology concept definition
+http://edamontology.org/data_0949,1,Workflow metadata
+http://edamontology.org/data_1668,1,Z-value
+http://edamontology.org/data_2914,1,Sequence features metadata
+http://edamontology.org/data_1362,1,Position weight matrix
+http://edamontology.org/data_1401,1,Match reward score
+http://edamontology.org/data_0860,1,Sequence signature data
+http://edamontology.org/data_1696,1,Drug report
+http://edamontology.org/data_1756,1,Protein residue
+http://edamontology.org/data_0874,1,Comparison matrix
+http://edamontology.org/data_2168,1,Sequence trace image
+http://edamontology.org/data_1534,1,Peptide immunogenicity data
+http://edamontology.org/data_0971,1,Article
+http://edamontology.org/data_3718,1,Pathogenicity report
+http://edamontology.org/data_3721,1,Isolation source
+http://edamontology.org/data_3723,1,Morphology parameter
+http://edamontology.org/data_3719,1,Biosafety classification
+http://edamontology.org/data_3861,1,Electronic health record
+http://edamontology.org/data_2534,1,Sequence attribute
+http://edamontology.org/data_2769,1,Transcript ID
+http://edamontology.org/data_2338,1,Ontology identifier
+http://edamontology.org/data_3842,1,Molecular simulation data
+http://edamontology.org/data_1192,1,Tool name (BLAST)
+http://edamontology.org/data_3115,1,Microarray metadata
+http://edamontology.org/data_1046,1,Strain name
+http://edamontology.org/data_1011,1,EC number
+http://edamontology.org/data_2700,1,CATH identifier
+http://edamontology.org/data_1039,1,SCOP domain identifier
+http://edamontology.org/data_2365,1,Pathway or network accession
+http://edamontology.org/data_2909,1,Organism name
+http://edamontology.org/data_1012,1,Enzyme name
+http://edamontology.org/data_2342,1,Pathway or network name
+http://edamontology.org/data_2850,1,Lipid structure
+http://edamontology.org/data_2639,1,PubChem ID
+http://edamontology.org/data_2622,1,Compound ID (HMDB)
+http://edamontology.org/data_1523,1,Protein charge plot
+http://edamontology.org/data_1283,1,Cytogenetic map
+http://edamontology.org/data_3558,1,Clinical trial report
+http://edamontology.org/data_1602,1,Codon usage fraction difference
+http://edamontology.org/data_3148,1,Gene family report
+http://edamontology.org/data_0953,1,Version information
+http://edamontology.org/data_0848,1,Raw sequence
+http://edamontology.org/data_1583,1,Nucleic acid melting profile
+http://edamontology.org/data_1674,1,Sequence database cross-references
+http://edamontology.org/data_1057,1,Sequence database name
+http://edamontology.org/data_0581,1,Database
+http://edamontology.org/data_2167,1,Nucleic acid density plot
+http://edamontology.org/data_2720,1,Dinucleotide property
+http://edamontology.org/data_3667,1,Disease identifier
+http://edamontology.org/data_1114,1,Sequence motif identifier
+http://edamontology.org/data_1286,1,Plasmid map
+http://edamontology.org/data_1262,1,Peptide molecular weight hits
+http://edamontology.org/data_3117,1,Microarray hybridisation data
+http://edamontology.org/data_0970,1,Citation
+http://edamontology.org/data_2026,1,Hanes Woolf plot
+http://edamontology.org/data_2025,1,Michaelis Menten plot
+http://edamontology.org/data_0987,1,Chromosome name
+http://edamontology.org/data_1249,1,Sequence length
+http://edamontology.org/data_2753,1,Carbohydrate conformational map
+http://edamontology.org/data_1279,1,Sequence map
+http://edamontology.org/data_1546,1,Protein distance matrix
+http://edamontology.org/data_1385,1,Hybrid sequence alignment
+http://edamontology.org/data_2812,1,Lipid identifier
+http://edamontology.org/data_1893,1,Locus ID
+http://edamontology.org/data_1022,1,Sequence feature label
+http://edamontology.org/data_3492,1,Nucleic acid signature
+http://edamontology.org/data_2583,1,GO concept ID (molecular function)
+http://edamontology.org/data_3424,1,Raw image
+http://edamontology.org/data_2535,1,Sequence tag profile
+http://edamontology.org/data_1033,1,Ensembl gene ID
+http://edamontology.org/data_2086,1,Nucleic acid structure data
+http://edamontology.org/data_2717,1,Oligonucleotide probe annotation
+http://edamontology.org/data_3488,1,NMR spectrum
+http://edamontology.org/data_1082,1,Pathway or network identifier
+http://edamontology.org/data_2794,1,ORF ID
+http://edamontology.org/data_2254,1,OBO file format name
+http://edamontology.org/data_0967,1,Ontology concept data
+http://edamontology.org/data_1187,1,PubMed ID
+http://edamontology.org/data_1470,1,C-alpha trace
+http://edamontology.org/data_0937,1,Electron density map
+http://edamontology.org/data_2163,1,Helical net
+http://edamontology.org/data_2162,1,Helical wheel
+http://edamontology.org/data_1709,1,Protein secondary structure image
+http://edamontology.org/data_2655,1,Cell type identifier
+http://edamontology.org/data_1544,1,Ramachandran plot
+http://edamontology.org/data_2899,1,Drug name
+http://edamontology.org/data_0993,1,Drug identifier
+http://edamontology.org/data_1588,1,DNA base pair stacking energies data
+http://edamontology.org/data_2301,1,SMILES string
+http://edamontology.org/data_1026,1,Gene symbol
+http://edamontology.org/data_2190,1,Sequence checksum
+http://edamontology.org/data_1413,1,Sequence similarity
+http://edamontology.org/data_0881,1,RNA secondary structure alignment
+http://edamontology.org/data_3273,1,Sample ID
+http://edamontology.org/data_3275,1,Phenotype name
+http://edamontology.org/data_1497,1,Root-mean-square deviation
+http://edamontology.org/data_1442,1,Phylogenetic tree distances
+http://edamontology.org/data_1009,1,Protein name
+http://edamontology.org/data_3442,1,MRI image
+http://edamontology.org/data_2354,1,RNA family report
+http://edamontology.org/data_1524,1,Protein solubility
+http://edamontology.org/data_1868,1,Taxon
+http://edamontology.org/data_1075,1,Protein family identifier
+http://edamontology.org/data_2958,1,Nucleic acid melting curve
+http://edamontology.org/data_3871,1,Forcefield parameters
+http://edamontology.org/data_1600,1,Codon usage bias plot
+http://edamontology.org/data_2160,1,Fickett testcode plot
+http://edamontology.org/data_1347,1,Dirichlet distribution
+http://edamontology.org/data_2140,1,Concentration
+http://edamontology.org/data_2371,1,ASTD ID (tss)
+http://edamontology.org/data_3425,1,Carbohydrate property
+http://edamontology.org/data_2749,1,Genome identifier
+http://edamontology.org/data_1448,1,Comparison matrix (nucleotide)
+http://edamontology.org/data_1449,1,Comparison matrix (amino acid)
